@@ -14,8 +14,8 @@
 
 ### Por departamentos:
 
-* [Cursos comercio y marketing](pdf/comercio-y-marketing.pdf)
-* [Cursos fol](pdf/fol.pdf)
-* [Cursos imagen y sonido](pdf/imagen-y-sonido.pdf)
-* [Cursos informática](pdf/informatica-y-comunicaciones.pdf)
-* [Cursos fnglés](pdf/inglés.pdf)
+* [Cursos Comercio y marketing](pdf/comercio-y-marketing.pdf)
+* [Cursos FOL](pdf/fol.pdf)
+* [Cursos Imagen y sonido](pdf/imagen-y-sonido.pdf)
+* [Cursos Informática y comunicaciones](pdf/informatica-y-comunicaciones.pdf)
+* [Cursos Inglés](pdf/inglés.pdf)
